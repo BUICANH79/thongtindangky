@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">thongtindangky</string>
+    <string name="txtten">Tên</string>
+    <string name="btnhuy">HỦY</string>
+    <string name="rdonam">NAM</string>
+
+    <string name="txtct">Chú Thích</string>
+    <string name="txtgt">Gioi tính</string>
+    <string name="btndky">Đăng Ký</string>
+    <string name="rdonu">NU</string>
+    <string name="txtsdt">SDT</string>
+    <string name="txtqg">Quốc Gia</string>
+    <string name="txtLan">Languages</string>
+    <string name="rdinam">Nam</string>
+    <string name="rdinu">Nu</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+
+</resources>
